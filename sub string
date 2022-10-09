@@ -10,3 +10,10 @@ int main()
 printf("\nenter the string : ");
 yylex();
 }
+
+
+
+
+OUTPUT:
+enter the string :afwan
+AFWAN
